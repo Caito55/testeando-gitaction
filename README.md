@@ -1,2 +1,0 @@
-# testeando-gitaction
-solo pruebas
